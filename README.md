@@ -236,3 +236,15 @@ select category,
 from new_table
 group by 1
 ```
+**Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+
+## Contact
+
+Feel free to reach out to me:
+
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/stavan-mohod-3817a7331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+
+
+
+
