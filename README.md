@@ -15,5 +15,5 @@ To analyze the Netflix catalog using SQL to answer important business and user-r
 ## 📁 Dataset
 
 The dataset used in this project was sourced from Kaggle:
-[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
